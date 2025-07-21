@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual studio code 2022\\Proje_Hastane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D717526F-3E2C-4D13-8BEE-9025BA1A3BA7}|Proje_Hastane\\Proje_Hastane.csproj|d:\\visual studio code 2022\\proje_hastane\\proje_hastane\\sqlbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D717526F-3E2C-4D13-8BEE-9025BA1A3BA7}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\sqlbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D717526F-3E2C-4D13-8BEE-9025BA1A3BA7}|Proje_Hastane\\Proje_Hastane.csproj|d:\\visual studio code 2022\\proje_hastane\\proje_hastane\\frmbilgid\u00FCzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D717526F-3E2C-4D13-8BEE-9025BA1A3BA7}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmbilgid\u00FCzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D717526F-3E2C-4D13-8BEE-9025BA1A3BA7}|Proje_Hastane\\Proje_Hastane.csproj|d:\\visual studio code 2022\\proje_hastane\\proje_hastane\\frmbilgid\u00FCzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D717526F-3E2C-4D13-8BEE-9025BA1A3BA7}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmbilgid\u00FCzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D717526F-3E2C-4D13-8BEE-9025BA1A3BA7}|Proje_Hastane\\Proje_Hastane.csproj|d:\\visual studio code 2022\\proje_hastane\\proje_hastane\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D717526F-3E2C-4D13-8BEE-9025BA1A3BA7}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D717526F-3E2C-4D13-8BEE-9025BA1A3BA7}|Proje_Hastane\\Proje_Hastane.csproj|d:\\visual studio code 2022\\proje_hastane\\proje_hastane\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D717526F-3E2C-4D13-8BEE-9025BA1A3BA7}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D717526F-3E2C-4D13-8BEE-9025BA1A3BA7}|Proje_Hastane\\Proje_Hastane.csproj|d:\\visual studio code 2022\\proje_hastane\\proje_hastane\\frmhastagiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D717526F-3E2C-4D13-8BEE-9025BA1A3BA7}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastagiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D717526F-3E2C-4D13-8BEE-9025BA1A3BA7}|Proje_Hastane\\Proje_Hastane.csproj|D:\\Visual studio code 2022\\Proje_Hastane\\proje_hastane\\frmhastagiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D717526F-3E2C-4D13-8BEE-9025BA1A3BA7}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastagiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sqlbaglanti.cs",
+              "DocumentMoniker": "D:\\Visual studio code 2022\\Proje_Hastane\\Proje_Hastane\\sqlbaglanti.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\sqlbaglanti.cs",
+              "ToolTip": "D:\\Visual studio code 2022\\Proje_Hastane\\Proje_Hastane\\sqlbaglanti.cs",
+              "RelativeToolTip": "Proje_Hastane\\sqlbaglanti.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T12:57:58.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmBilgiD\u00FCzenle.cs",
+              "DocumentMoniker": "D:\\Visual studio code 2022\\Proje_Hastane\\Proje_Hastane\\FrmBilgiD\u00FCzenle.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmBilgiD\u00FCzenle.cs",
+              "ToolTip": "D:\\Visual studio code 2022\\Proje_Hastane\\Proje_Hastane\\FrmBilgiD\u00FCzenle.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmBilgiD\u00FCzenle.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T12:57:54.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmBilgiD\u00FCzenle.cs [Design]",
+              "DocumentMoniker": "D:\\Visual studio code 2022\\Proje_Hastane\\Proje_Hastane\\FrmBilgiD\u00FCzenle.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmBilgiD\u00FCzenle.cs",
+              "ToolTip": "D:\\Visual studio code 2022\\Proje_Hastane\\Proje_Hastane\\FrmBilgiD\u00FCzenle.cs [Design]",
+              "RelativeToolTip": "Proje_Hastane\\FrmBilgiD\u00FCzenle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T12:57:52.942Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Visual studio code 2022\\Proje_Hastane\\Proje_Hastane\\Form1.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\Form1.cs",
+              "ToolTip": "D:\\Visual studio code 2022\\Proje_Hastane\\Proje_Hastane\\Form1.cs",
+              "RelativeToolTip": "Proje_Hastane\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T12:57:48.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Visual studio code 2022\\Proje_Hastane\\Proje_Hastane\\Form1.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\Form1.cs",
+              "ToolTip": "D:\\Visual studio code 2022\\Proje_Hastane\\Proje_Hastane\\Form1.cs [Design]",
+              "RelativeToolTip": "Proje_Hastane\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T12:57:46.546Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmHastaGiri\u015F.cs",
+              "DocumentMoniker": "D:\\Visual studio code 2022\\Proje_Hastane\\Proje_Hastane\\frmHastaGiri\u015F.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\frmHastaGiri\u015F.cs",
+              "ToolTip": "D:\\Visual studio code 2022\\Proje_Hastane\\Proje_Hastane\\frmHastaGiri\u015F.cs",
+              "RelativeToolTip": "Proje_Hastane\\frmHastaGiri\u015F.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T07:27:41.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmHastaGiri\u015F.cs [Design]",
+              "DocumentMoniker": "D:\\Visual studio code 2022\\Proje_Hastane\\Proje_Hastane\\frmHastaGiri\u015F.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\frmHastaGiri\u015F.cs",
+              "ToolTip": "D:\\Visual studio code 2022\\Proje_Hastane\\Proje_Hastane\\frmHastaGiri\u015F.cs [Design]",
+              "RelativeToolTip": "Proje_Hastane\\frmHastaGiri\u015F.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T07:27:38.942Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
